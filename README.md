@@ -1,6 +1,5 @@
 🚀NumPy: A Game-Changer for Python Developers! 🧠 💫 
 
-Big thanks to my trainer Nagaraju Ekkirala for his invaluable support and guidance 
 
 ✨ I’ve been exploring NumPy, the backbone of numerical computing in Python, and compiled detailed notes to help others kickstart their journey.
 
@@ -17,4 +16,4 @@ Big thanks to my trainer Nagaraju Ekkirala for his invaluable support and guidan
 
 🔗 Want to Learn NumPy?
 
-📌 Check out my notes below!
+📌 Check out my notes ...!
